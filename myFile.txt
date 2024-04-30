@@ -7,3 +7,4 @@ Making new changes in develop
 1. Change to master
 2. master only
 3. to develop only
+4. GitHib changes only
