@@ -3,6 +3,7 @@ Adding second line with nano! Wow
 I'm using Git! What's up?
 lol hello
 Making new changes in develop
+<<<<<<< HEAD
 1. Change to master
 2. master only
-
+3. to develop only
