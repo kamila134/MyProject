@@ -3,3 +3,4 @@ Adding second line with nano! Wow
 I'm using Git! What's up?
 lol hello
 Making new changes in develop
+3. to develop only
